@@ -28,3 +28,7 @@ To learn more about main project dependencies:
 - [Tailwind](https://tailwindcss.com/) - an utility first framework.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Refactor and Document
+
+The second part of the challenge is inside of the `components` folder in the component called `BetterButton`
